@@ -2,7 +2,7 @@
 
 For the given value of seconds since midnight, return the electronic watch screen output.
 
-Input value is given via `System.in`. Output value mut be printed to `System.out`
+Input value is given via `System.in`. Output value must be printed to `System.out`
 
 It is guaranteed, that input number is non-negative.
 
