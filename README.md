@@ -1,6 +1,13 @@
 # Electronic Watch
 
-For the given value of seconds since midnight, return the electronic watch screen output.
+The purpose of this exercise is to familiarize you with basic `int` operations.
+
+Estimated workload of this exercise is _30 minutes_.
+
+### Description
+
+Please, proceed to [ElectronicWatch](src/main/java/com/epam/rd/autotasks/meetautocode/ElectronicWatch.java) class.
+The program must print an electronic watch screen output for a given value of seconds since midnight.
 
 Input value is given via `System.in`. Output value must be printed to `System.out`
 
@@ -10,7 +17,7 @@ Output format is `h:mm:ss` \(possible values: \[0:00:00; 23:59:59\]\).
 
 *Extra challenge*: try to solve the task without using `if` statements or cycles.
 
-## Examples
+### Examples
 
 ---
 Input: `60`
